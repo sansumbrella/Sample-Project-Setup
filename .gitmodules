@@ -1,0 +1,8 @@
+[submodule "Soso"]
+	path = lib/ofxSoso
+	url = git@github.com:sosolimited/ofxSoso.git
+	branch = cinder
+[submodule "Cinder"]
+	path = lib/Cinder
+	url = git@github.com:sosolimited/Cinder.git
+	branch = release
